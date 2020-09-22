@@ -1,5 +1,5 @@
 # Arkanoid
-Final product of a 5-part-semester project in Java.This project was coded by me on the 2nd semester of my 1st year at BIU. I have to say that this project, although its relative simplicity, has Significantly strengthened my OOP and Java skills.
+Final product of a 5-part-semester project in Java. This project was coded by me on the 2nd semester of my 1st year at BIU. I have to say that this project, although its relative simplicity, has Significantly strengthened my OOP and Java skills.
 
 
 ## Compiling and Running
